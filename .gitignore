@@ -1,0 +1,15 @@
+# environments
+venv/
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# misc
+.DS_Store
+
+Data/
